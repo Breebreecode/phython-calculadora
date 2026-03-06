@@ -1,23 +1,21 @@
-Calculadora em Python
+Calculadora em Python (Terminal)
 
-Este projeto consiste em uma calculadora simples desenvolvida em Python com o objetivo de praticar lógica de programação e interação com o usuário via terminal.
+Este projeto consiste em uma calculadora simples desenvolvida em Python que realiza operações de soma entre dois números.
 
-Funcionalidades
+A aplicação funciona diretamente no terminal e foi criada com o objetivo de praticar os primeiros conceitos de programação.
 
-A calculadora realiza as seguintes operações matemáticas:
+Funcionalidade
 
-- Adição
-- Subtração
-- Multiplicação
-- Divisão
+A calculadora permite que o usuário:
 
-O usuário escolhe a operação desejada e informa os números que serão utilizados no cálculo.
+- Insira dois números
+- Receba como resultado a soma desses valores
 
 Tecnologias utilizadas
 
 - Python
 
-Como executar o projeto
+Como executar
 
 1. Baixe o arquivo `calculadora.py`
 2. Abra o terminal na pasta do projeto
@@ -27,12 +25,11 @@ python calculadora.py
 
 Objetivo do projeto
 
-Este projeto foi desenvolvido para praticar conceitos iniciais de programação em Python, incluindo:
+Este projeto foi desenvolvido no início dos estudos em programação para praticar:
 
-- Estruturas condicionais
 - Entrada de dados pelo usuário
-- Operações matemáticas
-- Organização de código
+- Operações matemáticas básicas
+- Execução de programas Python no terminal
 
 Autora
 
